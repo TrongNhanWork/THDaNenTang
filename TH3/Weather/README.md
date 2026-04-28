@@ -1,16 +1,54 @@
-# weather_app
+# Weather App (Flutter)
 
-A new Flutter project.
+Ứng dụng thời tiết được xây dựng bằng **Flutter**, sử dụng API từ OpenWeather để hiển thị thông tin thời tiết theo thành phố.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## Chức năng chính
 
-A few resources to get you started if this is your first Flutter project:
+* Tìm kiếm thời tiết theo thành phố
+* Hiển thị nhiệt độ hiện tại
+* Hiển thị trạng thái thời tiết
+* Hiển thị ngày giờ
+* Dự báo theo giờ
+* Dự báo 5 ngày
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Công nghệ sử dụng
+
+* Flutter (Dart)
+* OpenWeather API
+* HTTP (API request)
+* JSON Parsing
+* Material UI
+
+---
+
+## Giao diện ứng dụng
+
+### Màn hình chính
+
+![Main](binhduong.png)
+
+---
+
+### Chi tiết thời tiết
+
+![Detail](detail.png)
+
+---
+
+### Thành phố Đà Lạt
+
+![DaLat](dalat.png)
+
+---
+
+### Khi mất kết nối
+
+![No Internet](disconet.png)
+
+
+
+---
