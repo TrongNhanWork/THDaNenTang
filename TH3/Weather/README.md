@@ -24,7 +24,9 @@
 * Material UI
 
 ---
+## Link chứa video demo https://drive.google.com/drive/folders/1kFjUqi5J1i4iE3CcGhgte-WGdHnwjTqU?usp=drive_link
 
+---
 ## Giao diện ứng dụng
 
 ### Màn hình chính
